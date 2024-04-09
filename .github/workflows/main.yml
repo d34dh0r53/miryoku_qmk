@@ -81,7 +81,7 @@ jobs:
         run: |
           artifact_dir="artifacts"
           mkdir "$artifact_dir"
-          user='users/manna-harbour_miryoku'
+          user='users/d34dh0r53'
           rules="$user/custom_rules.mk"
           config="$user/custom_config.h"
 
